@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Miguelcandidodefreitas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Meu Primeiro Site
 
-<!---
-Miguelcandidodefreitas/Miguelcandidodefreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## Tecnologias usadas
+- HTML
+- CSS
+
+## Sobre o projeto
+Esse site foi criado para treinar programação e aprender desenvolvimento Front-End.
+
+## Autor
+Miguel Cândido de Freitas
