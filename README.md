@@ -1,5 +1,5 @@
 # Meu Primeiro Site
-#miguelcandidodefreitas.github.io/Miguelcandidodefreitas/
+miguelcandidodefreitas.github.io/Miguelcandidodefreitas/
 ## Tecnologias usadas
 - HTML
 - CSS
