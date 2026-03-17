@@ -1,4 +1,3 @@
-👨‍💻 Miguel Cândido de Freitas
 Olá! Meu nome é Miguel Cândido de Freitas, tenho 15 anos e estou começando minha jornada no mundo da programação 🚀
 📚 Sobre mim:
 🎓 Estudante dedicado
